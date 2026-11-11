@@ -1,6 +1,7 @@
 package hello.advanced.trace.logtrace;
 
 import hello.advanced.trace.TraceStatus;
+import hello.advanced.trace.logtrace.ThreadLocalLogTrace;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
